@@ -1,9 +1,3 @@
-
-/*
- Lab 6 Starter Code
- 
- */
-
 // PIC16F1829 Configuration Bit Settings
 // #pragma config statements should precede project file includes.
 // Use project enums instead of #define for ON and OFF.
